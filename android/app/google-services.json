@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338447589069",
+    "project_id": "my-applicattion-5ff17",
+    "storage_bucket": "my-applicattion-5ff17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338447589069:android:6a2c87883ecf0759751384",
+        "android_client_info": {
+          "package_name": "com.example.weather_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338447589069-iiijncngjpcgtbbabffeqokhclibckn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pJBGq1M_-5bzOUUpTcOrJ4WdkOUZTpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338447589069-iiijncngjpcgtbbabffeqokhclibckn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
